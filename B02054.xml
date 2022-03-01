@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Grace, his Majesties high commissioner, and the Right Honourable the Estates of Parliament, Mary Countess of Callender, and her husband for his interest, humbly sheweth.</title>
+            <author>Callendar, Mary Livingston, Countess of, fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02054</idno>
+            <idno type="STC">Wing C298D</idno>
+            <idno type="STC">ESTC R173356</idno>
+            <idno type="EEBO-CITATION">52211723</idno>
+            <idno type="OCLC">ocm 52211723</idno>
+            <idno type="VID">175455</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175455)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2737:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Grace, his Majesties high commissioner, and the Right Honourable the Estates of Parliament, Mary Countess of Callender, and her husband for his interest, humbly sheweth.</title>
+                  <author>Callendar, Mary Livingston, Countess of, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Callendar, Mary Livingston, --  Countess of, fl. 1695. --  Trials, litigation, etc.</term>
+               <term>Livingston, James, --  Earl of Callendar, d. 1723 --  Trials, litigation, etc.</term>
+               <term>Decedents' family maintenance --  Scotland --  Cases --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:175455:1"/>
+            <head>To his Grace, His Majesties high Commiſſioner, and the Right Honourable the Eſtates of Parliament,</head>
+            <head type="sub">Mary <hi>Counteſs of</hi> Callender, <hi>and her Husband for his Interest,</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat where <hi>I</hi> being conveened before the Lords of Their Majeſties Privy Council, at the Inſtance of <hi>James</hi> now Earl of <hi>Callender</hi> and the Earl of <hi>Linlithgow,</hi> and his other Tutors for their Intereſt; he obtained againſt me the Modification of one Thouſand pounds <hi>Scots</hi> of Aliment yearly, to be payed to him out of my Joynture, wherein I was ſecured by all the Security that Law could make me: By which Sentence being greatly grieved, I cannot but lay before this high and Honourable Court of Parliament, the many and ſtrong Reaſons that I offered to the Lords of his Majeſties Privy Council, in my own Defence. As firſt, That there was no preſſing Neceſſity for any Ali<g ref="char:EOLhyphen"/>ment, ſince the Earls Mother had given him a thouſand Merks yearly, as was acknowledged, and he was but an Infant, whom ſuch a Sum in his Circum<g ref="char:EOLhyphen"/>ſtances might very well ſerve. 2. The Neceſſity being taken off, and this queſtion of Aliment dipping viſibly upon the Point of Civil Right, it was un<g ref="char:EOLhyphen"/>denyable that the Purſuite was more proper to be intented before the Lords of Seſſion than before the Lords of the Privy Council, who are not in uſe to re<g ref="char:EOLhyphen"/>ceive Complaints of that kind, except where the Neceſſity is urged, as a matter that admits of no delay, which could not be alledged in this caſe. But 3. To ſhew that your Petitioner deſired no delay but a fair Diſcuſſion in Point of right, I offered to conſent that the matter ſhould be ſummarly diſcuſſed by the Lords of Seſſion. 4. To come cloſe to the Caſe it ſelf, I did contend that the ordi<g ref="char:EOLhyphen"/>nary Motives of Equity for giving the Heir an Aliment againſt the Liferenter, did wholly ceaſe in my caſe, in as much as I am nothing in Blood to this Earl of <hi>Callender,</hi> and that he is not Lineally deſcended of me, nor is the Debt that ſtraitnes him either my Husbands or his predeceſſors Debts, but on the contra<g ref="char:EOLhyphen"/>trary, Debts contracted by his Father after my Husbands deceaſe, and that I was poſſeſſed of my Joynture, ſo that to burden me with an Aliment in this Earls fa<g ref="char:EOLhyphen"/>vours, where there was neither ty of Bloud, nor the leaſt colour of Equity, upon the account of my Husbands Debts, was a caſe wholly unprefidented.</p>
+            <p>But 5. As <hi>I</hi> truely am a Stranger to the Family in Blood, though never in kind<g ref="char:EOLhyphen"/>neſs, ſo any Joynture <hi>I</hi> have was moſt onerouſly purchaſed by the Portion <hi>I</hi> brought with me, which was no leſs than 38000 pounds <hi>Scots,</hi> and for which all the Joynture was but about 8000 Merks yearly, which is the leaſt that a Perſon of my Quality can live upon, and the ſame can admit of no Deduction: whereby it is evident, that there is no more Reaſon to take an Aliment off me, than of any other ſingular Succeſſor. 6. In an Agreement with this Earls
+<pb n="2" facs="tcp:175455:2"/>Father, I got from him an Ratification of my Jointure, with an expreſs Reun<g ref="char:EOLhyphen"/>nciation of all Claims of Aliment, which in ſenſe and Reaſon ſeems effectual<g ref="char:EOLhyphen"/>ly to exclude this Earl who is his Son and Heir. 7. Upon the whole matter <hi>I</hi> am in effect, no more lyable to an Aliment to this Earl of <hi>Callender,</hi> than if by his own Debt and Miſmanagement he had brought himſelf to this Neceſſity, which no perſon will, or can ſay ſhould ever be a Strait upon me, for as to me this Earl and his Father are both the ſame perſon, and the Fathers Debt doth now ſtraiten his Son: It was never my Husbands Debt, but contracted after his death, and my Poſſeſſion of my Jointure: and farder this Claim of Ali<g ref="char:EOLhyphen"/>ment is renunced by the Father, ſo that on all theſe Conſiderations, it is plain and evident that I can be no more obliged to Aliment this Earl, then if he had brought himſelf to this Diſtreſs by his own Miſmanagment and Extravagancie, which no rational man will alledge; ſeing, therefore that my Caſe is ſo ſingular, and my Defences were ſo ſtrong: and that notwithſtanding, <hi>I</hi> clearly proved eve<g ref="char:EOLhyphen"/>ry Point, that I alledged in matter of Fact: it was yet caſt by the Lords of Councils Sentence, <hi>I</hi> cannot but in all humility Addreſs my ſelf to this High and Soveraign Court, as the only Court and Power where any Help or Reme<g ref="char:EOLhyphen"/>dy may be found.</p>
+            <p>My it therefore pleaſe your Grace and Lordſhips, in conſideration of the Premiſſes, to ſuſpend the foreſaid Sentence of Council, and all fur<g ref="char:EOLhyphen"/>der Execution upon it, and to grant Warrand to Cite the ſaid Earl and his Tutors for their intereſt, to compear before your Lordſhips, to hear the foreſaid Caſe and Queſtion, with the Sentence upon it reviewed and rectified, or otherways to remit the Diſcuſſion thereof to the Lords of Council and Seſſion, the only proper Judges of Right, that they may determine therein, notwithſtanding of the foreſaid Sentence of Privy Council, and as if the ſame had never been pronounced.</p>
+            <closer>
+               <signed>And your Grace and Lordſhips Petitioner ſhall ever pray.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
